@@ -1,0 +1,11 @@
+﻿fastapi==0.111.0
+uvicorn==0.29.0
+python-multipart==0.0.9
+Pillow==10.3.0
+torch==2.3.0
+torchvision==0.18.0
+transformers==4.41.0
+numpy==1.26.4
+opencv-python==4.9.0.80
+requests==2.31.0
+inference-sdk==0.9.22
